@@ -1,0 +1,10 @@
+pclsceleton is a kinect utility combining the point cloud library's cloud viewer and osceleton's joint tracking. 
+
+This lets you visualize the cloud, the joints and output the joint positions as open sound control (OSC) messages.
+
+Check the keys.txt file for the shortcut keys embedded in the point cloud viewer. 
+
+This assumes you've got a working PCL 1.3 installation. For info on that see http://pointclouds.org 
+
+PCL Source: 
+http://www.pointclouds.org/downloads/source.html
